@@ -1,0 +1,16 @@
+C:\Users\Wes\Documents\develops\CineDoWes\bin\Debug\net5.0\CineDoWes.exe
+C:\Users\Wes\Documents\develops\CineDoWes\bin\Debug\net5.0\CineDoWes.deps.json
+C:\Users\Wes\Documents\develops\CineDoWes\bin\Debug\net5.0\CineDoWes.runtimeconfig.json
+C:\Users\Wes\Documents\develops\CineDoWes\bin\Debug\net5.0\CineDoWes.runtimeconfig.dev.json
+C:\Users\Wes\Documents\develops\CineDoWes\bin\Debug\net5.0\CineDoWes.dll
+C:\Users\Wes\Documents\develops\CineDoWes\bin\Debug\net5.0\ref\CineDoWes.dll
+C:\Users\Wes\Documents\develops\CineDoWes\bin\Debug\net5.0\CineDoWes.pdb
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.csproj.AssemblyReference.cache
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.AssemblyInfoInputs.cache
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.AssemblyInfo.cs
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.dll
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\ref\CineDoWes.dll
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.pdb
+C:\Users\Wes\Documents\develops\CineDoWes\obj\Debug\net5.0\CineDoWes.genruntimeconfig.cache
